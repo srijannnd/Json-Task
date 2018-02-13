@@ -1,0 +1,920 @@
+{
+  "href": "http://nutritiondata.self.com/facts/cereal-grains-and-pasta/5676/2",
+  "categorie": "Cereal Grains and Pasta",
+  "ref": "020",
+  "flag_the_bad": true,
+  "serving_size": [
+    {
+      "size": "100.0",
+      "name": "100 grams "
+    },
+    {
+      "size": "28.0",
+      "name": "1 ounce  (28g)"
+    },
+    {
+      "size": "193.0",
+      "name": "1 cup  (193g)"
+    }
+  ],
+  "source": "USDA SR-21",
+  "data": {
+    "23gm": {
+      "calorie_info": [
+        {
+          "calories": {
+            "DV": 2000,
+            "quantity": 85.3303358
+          },
+          "sub_cat": [
+            {
+              "From Carbohydrate": {
+                "quantity": 60.997932
+              }
+            },
+            {
+              "From Fat": {
+                "quantity": 13.516621599999999
+              }
+            },
+            {
+              "From Protein": {
+                "quantity": 10.82244645
+              }
+            },
+            {
+              "From Alcohol": {
+                "quantity": 0.0
+              }
+            }
+          ]
+        }
+      ],
+      "protein_and_amino_acids": [
+        {
+          "Protein": {
+            "DV": 50,
+            "unit": "g",
+            "quantity": 3.11875032
+          },
+          "sub_cat": [
+            {
+              "Tryptophan": {
+                "unit": "mg",
+                "quantity": 41.632934799999994
+              }
+            },
+            {
+              "Threonine": {
+                "unit": "mg",
+                "quantity": 128.35743399999998
+              }
+            },
+            {
+              "Isoleucine": {
+                "unit": "mg",
+                "quantity": 133.874191
+              }
+            },
+            {
+              "Leucine": {
+                "unit": "mg",
+                "quantity": 202.15679799999998
+              }
+            },
+            {
+              "Lysine": {
+                "unit": "mg",
+                "quantity": 171.828929
+              }
+            },
+            {
+              "Methionine": {
+                "unit": "mg",
+                "quantity": 51.980308199999996
+              }
+            },
+            {
+              "Cystine": {
+                "unit": "mg",
+                "quantity": 43.927378
+              }
+            },
+            {
+              "Phenylalanine": {
+                "unit": "mg",
+                "quantity": 124.65956299999999
+              }
+            },
+            {
+              "Tyrosine": {
+                "unit": "mg",
+                "quantity": 75.6704991
+              }
+            },
+            {
+              "Valine": {
+                "unit": "mg",
+                "quantity": 156.193069
+              }
+            },
+            {
+              "Arginine": {
+                "unit": "mg",
+                "quantity": 243.793859
+              }
+            },
+            {
+              "Histidine": {
+                "unit": "mg",
+                "quantity": 89.4564185
+              }
+            },
+            {
+              "Alanine": {
+                "unit": "mg",
+                "quantity": 183.7612255
+              }
+            },
+            {
+              "Aspartic acid": {
+                "unit": "mg",
+                "quantity": 290.06657
+              }
+            },
+            {
+              "Glutamic acid": {
+                "unit": "mg",
+                "quantity": 519.646981
+              }
+            },
+            {
+              "Glycine": {
+                "unit": "mg",
+                "quantity": 376.27109899999994
+              }
+            },
+            {
+              "Proline": {
+                "unit": "mg",
+                "quantity": 160.51665500000001
+              }
+            },
+            {
+              "Serine": {
+                "unit": "mg",
+                "quantity": 264.01056
+              }
+            },
+            {
+              "Hydroxyproline": {
+                "quantity": 0.0
+              }
+            }
+          ]
+        }
+      ],
+      "other": [
+        {
+          "Alcohol": {
+            "unit": "g",
+            "quantity": 0.0
+          }
+        },
+        {
+          "Water": {
+            "unit": "g",
+            "quantity": 2.59688975
+          }
+        },
+        {
+          "Ash": {
+            "unit": "g",
+            "quantity": 0.662437421
+          }
+        },
+        {
+          "Caffeine": {
+            "quantity": 0.0
+          }
+        },
+        {
+          "Theobromine": {
+            "quantity": 0.0
+          }
+        }
+      ],
+      "carbohydrates": [
+        {
+          "Total Carbohydrate": {
+            "DV": 300,
+            "unit": "g",
+            "quantity": 15.103576750000002
+          },
+          "sub_cat": [
+            {
+              "Dietary Fiber": {
+                "DV": 25,
+                "unit": "g",
+                "quantity": 1.54121413
+              }
+            },
+            {
+              "Starch": {
+                "unit": "g",
+                "quantity": 13.1736824
+              }
+            },
+            {
+              "Sugars": {
+                "unit": "g",
+                "quantity": 0.388679553
+              },
+              "sub_cat": [
+                {
+                  "Sucrose": {
+                    "unit": "mg",
+                    "quantity": 321.98712
+                  }
+                },
+                {
+                  "Glucose": {
+                    "unit": "mg",
+                    "quantity": 62.1051589
+                  }
+                },
+                {
+                  "Fructose": {
+                    "unit": "mg",
+                    "quantity": 2.2999254799999997
+                  }
+                },
+                {
+                  "Lactose": {
+                    "unit": "mg",
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "Maltose": {
+                    "unit": "mg",
+                    "quantity": 2.2999254799999997
+                  }
+                },
+                {
+                  "Galactose": {
+                    "unit": "mg",
+                    "quantity": 0.0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "fats_and_fatty_acids": [
+        {
+          "sub_cat": [
+            {
+              "Saturated Fat": {
+                "DV": 20,
+                "unit": "g",
+                "quantity": 0.33557917700000006
+              },
+              "sub_cat": [
+                {
+                  "4:00": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "6:00": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "8:00": {
+                    "unit": "mg",
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "10:00": {
+                    "unit": "mg",
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "12:00": {
+                    "unit": "mg",
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "13:00": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "14:00": {
+                    "unit": "mg",
+                    "quantity": 2.53018446
+                  }
+                },
+                {
+                  "15:00": {
+                    "unit": "mg",
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "16:00": {
+                    "unit": "mg",
+                    "quantity": 265.456248
+                  }
+                },
+                {
+                  "17:00": {
+                    "unit": "mg",
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "18:00": {
+                    "unit": "mg",
+                    "quantity": 51.2837072
+                  }
+                },
+                {
+                  "19:00": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "20:00": {
+                    "unit": "mg",
+                    "quantity": 11.95952436
+                  }
+                },
+                {
+                  "22:00": {
+                    "unit": "mg",
+                    "quantity": 4.1403427
+                  }
+                },
+                {
+                  "24:00:00": {
+                    "quantity": 0.0
+                  }
+                }
+              ]
+            },
+            {
+              "Monounsaturated Fat": {
+                "unit": "g",
+                "quantity": 0.38755680800000003
+              },
+              "sub_cat": [
+                {
+                  "14:01": {
+                    "unit": "mg",
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "15:01": {
+                    "unit": "mg",
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "16:1 undifferentiated": {
+                    "unit": "mg",
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "16:1 c": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "16:1 t": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "17:01": {
+                    "unit": "mg",
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "18:1 undifferentiated": {
+                    "unit": "mg",
+                    "quantity": 384.333726
+                  }
+                },
+                {
+                  "18:1 c": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "18:1 t": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "20:01": {
+                    "unit": "mg",
+                    "quantity": 3.2195344799999996
+                  }
+                },
+                {
+                  "22:1 undifferentiated": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "22:1 c": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "22:1 t": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "24:1 c": {
+                    "quantity": 0.0
+                  }
+                }
+              ]
+            },
+            {
+              "Polyunsaturated Fat": {
+                "unit": "g",
+                "quantity": 0.639019695
+              },
+              "sub_cat": [
+                {
+                  "16:2 undifferentiated": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "18:2 undifferentiated": {
+                    "unit": "mg",
+                    "quantity": 629.2980779999999
+                  }
+                },
+                {
+                  "18:2 n-6 c,c": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "18:2 c,t": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "18:2 t,c": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "18:2 t,t": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "18:2 i": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "18:2 t not further defined": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "18:03": {
+                    "unit": "mg",
+                    "quantity": 9.65912531
+                  }
+                },
+                {
+                  "18:3 n-3, c,c,c": {
+                    "unit": "mg",
+                    "quantity": 9.65912531
+                  }
+                },
+                {
+                  "18:3 n-6, c,c,c": {
+                    "unit": "mg",
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "18:4 undifferentiated": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "20:2 n-6 c,c": {
+                    "unit": "mg",
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "20:3 undifferentiated": {
+                    "unit": "mg",
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "20:3 n-3": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "20:3 n-6": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "20:4 undifferentiated": {
+                    "unit": "mg",
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "20:4 n-3": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "20:4 n-6": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "20:5 n-3": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "22:02": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "22:5 n-3": {
+                    "quantity": 0.0
+                  }
+                },
+                {
+                  "22:6 n-3": {
+                    "quantity": 0.0
+                  }
+                }
+              ]
+            },
+            {
+              "Total trans fatty acids": {
+                "quantity": 0.0
+              }
+            },
+            {
+              "Total trans-monoenoic fatty acids": {
+                "quantity": 0.0
+              }
+            },
+            {
+              "Total trans-polyenoic fatty acids": {
+                "quantity": 0.0
+              }
+            },
+            {
+              "Total Omega-3 fatty acids": {
+                "unit": "mg",
+                "quantity": 9.65912531
+              }
+            },
+            {
+              "Total Omega-6 fatty acids": {
+                "unit": "mg",
+                "quantity": 629.2980779999999
+              }
+            }
+          ],
+          "Total Fat": {
+            "DV": 65,
+            "unit": "g",
+            "quantity": 1.6147113199999998
+          }
+        }
+      ],
+      "sterols": [
+        {
+          "Cholesterol": {
+            "DV": 300,
+            "unit": "mg",
+            "quantity": 0.0
+          }
+        },
+        {
+          "Phytosterols": {
+            "unit": "mg",
+            "quantity": 5.51955035
+          },
+          "sub_cat": [
+            {
+              "Campesterol": {
+                "quantity": 0.0
+              }
+            },
+            {
+              "Stigmasterol": {
+                "quantity": 0.0
+              }
+            },
+            {
+              "Beta-sitosterol": {
+                "quantity": 0.0
+              }
+            }
+          ]
+        }
+      ],
+      "vitamins": [
+        {
+          "Vitamin A": {
+            "DV": 5000,
+            "unit": "IU",
+            "quantity": 0.459975551
+          },
+          "sub_cat": [
+            {
+              "Retinol": {
+                "unit": "mcg",
+                "quantity": 0.0
+              }
+            },
+            {
+              "Retinol Activity Equivalent": {
+                "unit": "mcg",
+                "quantity": 0.0
+              }
+            },
+            {
+              "Alpha Carotene": {
+                "unit": "mcg",
+                "quantity": 0.0
+              }
+            },
+            {
+              "Beta Carotene": {
+                "unit": "mcg",
+                "quantity": 0.230003427
+              }
+            },
+            {
+              "Beta Cryptoxanthin": {
+                "unit": "mcg",
+                "quantity": 0.0
+              }
+            },
+            {
+              "Lycopene": {
+                "unit": "mcg",
+                "quantity": 0.0
+              }
+            },
+            {
+              "Lutein+Zeaxanthin": {
+                "unit": "mcg",
+                "quantity": 6.439780580000001
+              }
+            }
+          ]
+        },
+        {
+          "Vitamin C": {
+            "DV": 60,
+            "unit": "mg",
+            "quantity": 0.96599954
+          }
+        },
+        {
+          "Vitamin D": {
+            "quantity": 0.0
+          }
+        },
+        {
+          "Vitamin E (Alpha Tocopherol)": {
+            "DV": 20,
+            "unit": "mg",
+            "quantity": 0.273702323
+          },
+          "sub_cat": [
+            {
+              "Beta Tocopherol": {
+                "unit": "mg",
+                "quantity": 0.2207996941
+              }
+            },
+            {
+              "Gamma Tocopherol": {
+                "unit": "mg",
+                "quantity": 0.043695383899999996
+              }
+            },
+            {
+              "Delta Tocopherol": {
+                "unit": "mg",
+                "quantity": 0.158688293
+              }
+            }
+          ]
+        },
+        {
+          "Vitamin K": {
+            "DV": 80,
+            "unit": "mcg",
+            "quantity": 0.0
+          }
+        },
+        {
+          "Thiamin": {
+            "DV": 1.5,
+            "unit": "mg",
+            "quantity": 0.026683047499999998
+          }
+        },
+        {
+          "Riboflavin": {
+            "DV": 1.7,
+            "unit": "mg",
+            "quantity": 0.0459972032
+          }
+        },
+        {
+          "Niacin": {
+            "DV": 20,
+            "unit": "mg",
+            "quantity": 0.212304973
+          }
+        },
+        {
+          "Vitamin B6": {
+            "DV": 2,
+            "unit": "mg",
+            "quantity": 0.135936302
+          }
+        },
+        {
+          "Folate": {
+            "DV": 400,
+            "unit": "mcg",
+            "quantity": 18.860018399999998
+          },
+          "sub_cat": [
+            {
+              "Food Folate": {
+                "unit": "mcg",
+                "quantity": 18.860018399999998
+              }
+            },
+            {
+              "Folic Acid": {
+                "unit": "mcg",
+                "quantity": 0.0
+              }
+            },
+            {
+              "Dietary Folate Equivalents": {
+                "unit": "mcg",
+                "quantity": 18.860018399999998
+              }
+            }
+          ]
+        },
+        {
+          "Vitamin B12": {
+            "DV": 6,
+            "unit": "mcg",
+            "quantity": 0.0
+          }
+        },
+        {
+          "Pantothenic Acid": {
+            "DV": 10,
+            "unit": "mg",
+            "quantity": 0.33514797300000004
+          }
+        },
+        {
+          "Choline": {
+            "unit": "mg",
+            "quantity": 16.05634508
+          }
+        },
+        {
+          "Betaine": {
+            "unit": "mg",
+            "quantity": 15.548749800000001
+          }
+        }
+      ],
+      "minerals": [
+        {
+          "Calcium": {
+            "DV": 1000,
+            "unit": "mg",
+            "quantity": 36.5657634
+          }
+        },
+        {
+          "Iron": {
+            "DV": 18,
+            "unit": "mg",
+            "quantity": 1.75031679
+          }
+        },
+        {
+          "Magnesium": {
+            "DV": 400,
+            "unit": "mg",
+            "quantity": 57.0370974
+          }
+        },
+        {
+          "Phosphorus": {
+            "DV": 1000,
+            "unit": "mg",
+            "quantity": 128.1102668
+          }
+        },
+        {
+          "Potassium": {
+            "DV": 3500,
+            "unit": "mg",
+            "quantity": 116.82735000000001
+          }
+        },
+        {
+          "Sodium": {
+            "DV": 2400,
+            "unit": "mg",
+            "quantity": 0.919954276
+          }
+        },
+        {
+          "Zinc": {
+            "DV": 15,
+            "unit": "mg",
+            "quantity": 0.6601
+          }
+        },
+        {
+          "Copper": {
+            "DV": 2,
+            "unit": "mg",
+            "quantity": 0.12075455400000001
+          }
+        },
+        {
+          "Manganese": {
+            "DV": 2,
+            "unit": "mg",
+            "quantity": 0.766483602
+          }
+        },
+        {
+          "Selenium": {
+            "DV": 70,
+            "unit": "mcg",
+            "quantity": 4.3016877
+          }
+        },
+        {
+          "Fluoride": {
+            "quantity": 0.0
+          }
+        }
+      ]
+    }
+  },
+  "the_bad": "",
+  "caloric_ratio": {
+    "Carbs": "71%",
+    "Protein": "13%",
+    "Fats": "16%"
+  },
+  "the_good": ": This food is low in Saturated Fat, and very low in Cholesterol and Sodium. It is also a good source of Iron, Magnesium and Phosphorus, and a very good source of Manganese.",
+  "name": "Amaranth, uncooked"
+}

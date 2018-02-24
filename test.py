@@ -15,16 +15,14 @@ def change_quantity(data, value):
                     dict2['quantity'] = value*dict2['quantity']/100
                 else:
                     change_quantity(dict2, value)
+            # print(dict2)
+            # print('-----------')
     return None
 
 
-def file_gen(l):
-    for value in l:
-        data = json.load(open('data.json'))
-        change_quantity(data, value)
-        data = literal_eval(str(data).replace('100gm', str(value)+'gm'))
-        with open('data'+ str(value) +'.json', 'w') as outfile:
-            json.dump(data, outfile)
-
-
-file_gen([23, 50, 260])
+for value in [23, 50, 260]:
+    data = json.load(open('data.json'))
+    change_quantity(data, value)
+    data = literal_eval(str(data).replace('100gm', str(value)+'gm'))
+    with open('data'+ str(value) +'.json', 'w') as outfile:
+        json.dump(data, outfile)
